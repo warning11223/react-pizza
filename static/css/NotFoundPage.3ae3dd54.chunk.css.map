@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/NotFoundPage.3ae3dd54.chunk.css","mappings":"AAAA,sBAEE,cADA,iBACA,CAEF,sBAEE,eADA,YACA","sources":["components/NotFound/NotFound.module.scss"],"sourcesContent":[".root {\r\n  text-align: center;\r\n  padding: 200px;\r\n}\r\n.desc {\r\n  padding: 30px;\r\n  font-size: 24px;\r\n}"],"names":[],"sourceRoot":""}
