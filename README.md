@@ -1,4 +1,4 @@
-## demo version - https://warning11223.github.io/react-pizza/
+## github pages - https://warning11223.github.io/react-pizza/
 
 # 🛠 Технологии:
 
